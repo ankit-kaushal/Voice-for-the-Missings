@@ -15,3 +15,5 @@
 </ol>
 
 #### Now, you are ready to run. Run " python3 FindMissing.py " in terminal in linux or " python FindMissing.py " in command prompt in windows. A window will open up click on the button and the application will start.
+
+See Presentation : <a href="https://docs.google.com/presentation/d/1aVaOeUXc0F5rQ3LRM7DX1yvLEJwjzPMRsBnEvmG7j-o/edit?usp=sharing">Click Here!</a>
