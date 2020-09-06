@@ -14,3 +14,5 @@ Various Module of python such as:
   * OpenCV
   * Tkinter
   * Numpy
+## What we can do to improve futher:
+We will try to improve this project by adding security. So that this app cannot be used/hacked by any third party.
